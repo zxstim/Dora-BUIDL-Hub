@@ -1,10 +1,11 @@
-# DORA BUIDL Hub registration
+# Hacker house registration
 
-Add your information to the below list to officially participate in the hacker house challenges (This is the first mission of the whole hacker house)
+## Registration
+Add your information to the below list to officially participate in the workshop challenge (This is the first mission of the whole workshop)
 
-| Emoji | Name | Telegram Handle    | Dorahacks ID | 
-| ----- | ---- | ------------------ | -------| 
-| 🧑‍⚖️    | ZxStim | zxstim | 123
-| ---   | ---    | ---              | --- |
+| Emoji | Name | Telegram ID    | Github ID | Dorahacks ID | Day 1 | Day 2 | 
+| ----- | ---- | ------------------ | ------ | ------------ | ----- | ----- |
+| 🧑‍⚖️    | ZxStim | zxstim           | zxstim | zxstim       |  y  |       |
+| ---   | ---    | ---              | ------ | ---          | ---   | ---   |
 
-⬆️ Submit your registration by adding your information to the table above and open a pull request.
+⬆️ Submit your registration by adding your information to the table above and open a pull request. After the request is merged, you will get 10 `KLAY` airdrop per day for gas.
